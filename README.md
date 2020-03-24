@@ -23,7 +23,7 @@ Support SSRPanel(VNetPanel), V2board, SSpanel-v3-Uim
 ### Install on Linux
 
 ```
-curl -L -s https://raw.githubusercontent.com/ColetteContreras/v2ray-poseidon/master/install-release.sh | sudo bash
+curl -L -s https://raw.githubusercontent.com/haygcao/v2ray-poseidon/master/install-release.sh | sudo bash
 ```
 
 #### Uninstall
