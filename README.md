@@ -29,7 +29,7 @@ curl -L -s https://raw.githubusercontent.com/haygcao/v2ray-poseidon/master/insta
 #### Uninstall
 
 ```
-curl -L -s https://raw.githubusercontent.com/ColetteContreras/v2ray-poseidon/master/uninstall.sh | sudo bash
+curl -L -s https://raw.githubusercontent.com/haygcao/v2ray-poseidon/master/uninstall.sh | sudo bash
 ```
 
 ### Donation 
